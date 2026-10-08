@@ -1,0 +1,71 @@
+DEPARTMENT: HR
+DOCUMENT: Employee Personal Record
+ACCESS LEVEL: Own Record Only
+EMPLOYEE_ID: emp_001
+CLASSIFICATION: Strictly Confidential — Individual Record
+
+=== EMPLOYEE PROFILE ===
+
+Employee ID:        emp_001
+Full Name:          Rahul Sharma
+Date of Birth:      March 14, 1995
+Gender:             Male
+Contact:            +91-98201-45678
+Personal Email:     rahul.sharma.personal@gmail.com
+Emergency Contact:  Sunita Sharma (Mother) — +91-98201-11223
+
+=== EMPLOYMENT DETAILS ===
+
+Designation:        Software Development Engineer II (SDE-2)
+Department:         Engineering — Backend Platform
+Band:               Band 2
+Reporting Manager:  Prashant Kulkarni (emp_045)
+Date of Joining:    July 15, 2022
+Employment Type:    Full-Time Permanent
+Work Location:      Pune, Maharashtra
+Work Mode:          Hybrid (3 days office / 2 days WFH)
+
+=== COMPENSATION (CONFIDENTIAL) ===
+
+Annual CTC:                     ₹18,50,000
+  Basic Salary:                 ₹7,40,000
+  HRA:                          ₹3,70,000
+  Special Allowance:            ₹4,81,600
+  Performance Bonus (target):   ₹2,22,000 (12% of basic)
+  PF Employer Contribution:     ₹88,800 (included in CTC)
+
+Last Increment: April 2025 — 14% increment (rated "Exceeds Expectations")
+Next Appraisal Due: April 2026
+
+=== LEAVE BALANCE (AS OF OCTOBER 2025) ===
+
+Earned Leave:     12.5 days available
+Sick Leave:        8 days available
+Casual Leave:      3 days available
+Comp-off:          2 days pending approval
+
+=== PERFORMANCE HISTORY ===
+
+FY2024–25:  Rating — "Exceeds Expectations" | Bonus paid: ₹2,08,400
+FY2023–24:  Rating — "Meets Expectations"   | Bonus paid: ₹1,55,000
+FY2022–23:  Rating — "Good" (partial year)  | Bonus paid: ₹62,000
+
+=== DOCUMENTS ON FILE ===
+
+- Aadhaar Card: Verified ✓
+- PAN Card: Verified ✓
+- Degree Certificate (B.Tech, VIT Pune, 2017): Verified ✓
+- Previous employment: Infosys (2017–2022), relieving letter on file ✓
+- Medical Insurance: Covered under Group Plan (Policy # ART-GRP-2245)
+- Nominee (PF/Gratuity): Sunita Sharma (Mother)
+
+=== ACTIVE HR ACTIONS ===
+
+None currently open.
+
+=== CONFIDENTIALITY NOTICE ===
+
+This record is strictly confidential. Access is restricted to the employee themselves, their direct HR business partner, and senior HR leadership. Unauthorized access or sharing constitutes a policy violation.
+
+Record Maintained By: HR Systems Team
+Last Updated: October 1, 2025

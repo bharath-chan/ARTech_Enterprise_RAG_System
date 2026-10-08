@@ -1,0 +1,59 @@
+DEPARTMENT: Finance
+DOCUMENT: Employee Expense Reimbursement Policy
+ACCESS LEVEL: Full
+CLASSIFICATION: Internal
+
+=== PURPOSE ===
+
+This policy governs the reimbursement of business expenses incurred by Artech Solutions employees. All employees are expected to exercise the same care in incurring expenses as they would with their own funds.
+
+=== ELIGIBLE EXPENSE CATEGORIES ===
+
+1. TRAVEL
+   - Domestic air travel: Economy class for flights under 4 hours; Business class permitted for flights over 6 hours (Manager approval required)
+   - Train travel: AC 2-Tier or above
+   - Cab/taxi: Actual cost with receipt; Ola/Uber preferred for audit trail
+   - Personal vehicle: ₹7/km reimbursement (fuel + wear)
+
+2. ACCOMMODATION
+   - Metro cities (Mumbai, Delhi, Bengaluru, Hyderabad): Up to ₹6,000/night
+   - Tier-2 cities: Up to ₹3,500/night
+   - International travel: As approved by VP/Director
+
+3. MEALS & ENTERTAINMENT
+   - Daily meal allowance (domestic travel): ₹800/day
+   - Client entertainment: Up to ₹5,000/event (pre-approval required from Director and above)
+   - Team meals: Up to ₹500/person (Manager approval)
+
+4. TECHNOLOGY & EQUIPMENT
+   - Mobile phone reimbursement: Up to ₹1,200/month for eligible roles
+   - Home internet (WFH): Up to ₹1,000/month for roles on approved WFH policy
+
+=== APPROVAL MATRIX ===
+
+Up to ₹10,000:       Direct Manager
+₹10,001–₹50,000:     HOD + Finance
+₹50,001–₹2,00,000:   VP/Director + CFO
+Above ₹2,00,000:      CEO + Board approval
+
+=== SUBMISSION PROCESS ===
+
+- Submit via Zoho Expense within 30 days of incurring the expense
+- Attach original receipts (PDF/photo acceptable)
+- Late submissions beyond 60 days will not be reimbursed without CFO exception
+- Expense reports are audited monthly by the Finance team
+
+=== NON-REIMBURSABLE EXPENSES ===
+
+- Personal grooming, clothing, or gym memberships
+- Fines, penalties, or traffic violations
+- Alcohol (unless included in approved client entertainment)
+- Expenses incurred by spouse, family, or non-employees
+- Expenses lacking receipts above ₹200
+
+=== POLICY VIOLATIONS ===
+
+Misrepresentation of expenses constitutes fraud and will result in disciplinary action up to and including termination and legal proceedings.
+
+Last Reviewed: August 2025
+Policy Owner: CFO Office

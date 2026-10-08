@@ -1,0 +1,52 @@
+DEPARTMENT: Finance
+DOCUMENT: Q3 Financial Report — FY2025
+ACCESS LEVEL: Full
+CLASSIFICATION: Internal — Finance Department
+
+=== EXECUTIVE SUMMARY ===
+
+Artech Solutions recorded total revenue of ₹142.3 crore in Q3 FY2025, representing a 14.2% year-on-year growth. Net profit after tax stood at ₹18.7 crore, compared to ₹14.1 crore in Q3 FY2024. EBITDA margin improved to 21.4%, up from 18.9% last year.
+
+=== REVENUE BREAKDOWN ===
+
+Product Licensing:        ₹61.4 crore  (43.1%)
+Professional Services:   ₹48.2 crore  (33.9%)
+Managed Services:        ₹22.5 crore  (15.8%)
+Training & Consulting:   ₹10.2 crore  (7.2%)
+Total Revenue:           ₹142.3 crore
+
+=== COST STRUCTURE ===
+
+Employee Costs:          ₹54.6 crore  (38.4% of revenue)
+Infrastructure & Cloud:  ₹18.3 crore  (12.9%)
+Sales & Marketing:       ₹12.7 crore  (8.9%)
+G&A Expenses:            ₹9.1 crore   (6.4%)
+R&D Investment:          ₹11.8 crore  (8.3%)
+Total Costs:             ₹106.5 crore
+
+=== CASH FLOW ===
+
+Operating Cash Flow:     ₹24.3 crore
+Capex:                   ₹6.8 crore
+Free Cash Flow:          ₹17.5 crore
+Cash & Equivalents (EoQ): ₹88.2 crore
+
+=== DEPARTMENT PERFORMANCE ===
+
+Engineering Division: Headcount grew from 312 to 341. Productivity per head improved 8.2%.
+Sales Division: Closed 23 new enterprise accounts. Average deal size: ₹2.1 crore.
+Customer Success: Churn rate fell to 3.1% (from 4.7% in Q3 FY2024). NPS score: 67.
+
+=== OUTSTANDING LIABILITIES ===
+
+Term Loan (HDFC Bank):   ₹32.0 crore  (repayment schedule: ₹4 crore/quarter)
+Working Capital Facility: ₹15.0 crore (revolving, utilized ₹8.2 crore)
+Deferred Revenue:         ₹22.6 crore
+
+=== FORWARD GUIDANCE ===
+
+Q4 FY2025 revenue expected in range of ₹148–155 crore. Key growth drivers: enterprise contract renewals (₹38 crore pipeline), two government tenders under evaluation (combined value ₹28 crore), and expansion into Southeast Asian markets.
+
+Prepared by: CFO Office, Artech Solutions
+Date: October 1, 2025
+Confidential — Not for external distribution

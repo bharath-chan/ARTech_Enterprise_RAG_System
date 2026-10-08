@@ -1,0 +1,61 @@
+DEPARTMENT: Legal
+DOCUMENT: Data Privacy and Protection Policy
+ACCESS LEVEL: Full
+CLASSIFICATION: Legal Restricted
+
+[SUMMARY SECTION — START]
+DOCUMENT SUMMARY:
+This policy establishes Artech Solutions' obligations and practices with respect to personal data collected from employees, clients, and third parties. It is aligned with India's Digital Personal Data Protection Act (DPDPA) 2023. The policy defines data categories, retention periods, breach notification timelines, and employee responsibilities regarding data handling. All employees must complete annual data privacy training.
+[SUMMARY SECTION — END]
+
+=== FULL DOCUMENT ===
+
+DATA PRIVACY AND PROTECTION POLICY
+Artech Solutions Pvt. Ltd.
+Version: 2.1 | Effective Date: January 1, 2025
+
+1. SCOPE AND PURPOSE
+   1.1 This policy applies to all employees, contractors, and third-party vendors who handle personal data on behalf of Artech Solutions.
+   1.2 The Company processes personal data as a Data Fiduciary under the DPDPA 2023 and is committed to lawful, fair, and transparent data processing.
+
+2. CATEGORIES OF PERSONAL DATA PROCESSED
+   2.1 Employee Data: Name, contact details, salary, tax information, health records (where applicable), performance data.
+   2.2 Client Data: Business contact information, contract terms, usage data.
+   2.3 Sensitive Personal Data (SPDI): Financial account details, biometric data, health information — subject to heightened protection controls.
+
+3. LEGAL BASIS FOR PROCESSING
+   3.1 Contractual necessity (employment agreement, client contracts)
+   3.2 Legal obligation (TDS, PF, statutory reporting)
+   3.3 Legitimate interest (fraud prevention, security monitoring)
+   3.4 Consent (for marketing communications, optional benefits programs)
+
+4. DATA RETENTION SCHEDULE
+   - Employee payroll records:     7 years post-employment
+   - Client contracts:             10 years post-contract end
+   - CCTV footage:                 30 days
+   - Application data (rejected):  6 months
+   - Email communications:         3 years
+   - Financial records:            8 years (per Companies Act)
+
+5. DATA BREACH NOTIFICATION
+   5.1 Any suspected breach must be reported to the DPO (dpo@artechsolutions.in) within 2 hours of discovery.
+   5.2 The Company will notify the Data Protection Board of India within 72 hours of confirmed breach.
+   5.3 Affected data principals will be notified without undue delay.
+
+6. EMPLOYEE OBLIGATIONS
+   6.1 Employees must not share personal data via unsecured channels (personal email, WhatsApp, USB).
+   6.2 Access to personal data is need-to-know only and must be logged.
+   6.3 Violations may result in disciplinary action, including termination.
+
+7. DATA SUBJECT RIGHTS
+   Under DPDPA 2023, individuals have the right to:
+   - Access their personal data
+   - Correct inaccurate data
+   - Erasure (where legally permissible)
+   - Grievance redressal via DPO
+
+8. INTERNATIONAL TRANSFERS
+   Personal data may not be transferred outside India without DPO approval and appropriate safeguards (standard contractual clauses or adequacy decision).
+
+Data Protection Officer: Ananya Krishnan
+Contact: dpo@artechsolutions.in | +91-22-4001-7890

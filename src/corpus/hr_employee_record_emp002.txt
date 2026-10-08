@@ -1,0 +1,70 @@
+DEPARTMENT: HR
+DOCUMENT: Employee Personal Record
+ACCESS LEVEL: Own Record Only
+EMPLOYEE_ID: emp_002
+CLASSIFICATION: Strictly Confidential — Individual Record
+
+=== EMPLOYEE PROFILE ===
+
+Employee ID:        emp_002
+Full Name:          Meera Nair
+Date of Birth:      August 22, 1998
+Gender:             Female
+Contact:            +91-99302-78901
+Personal Email:     meera.nair.work@outlook.com
+Emergency Contact:  Krishnan Nair (Father) — +91-94471-23456
+
+=== EMPLOYMENT DETAILS ===
+
+Designation:        Business Analyst
+Department:         Product — Growth Analytics
+Band:               Band 1
+Reporting Manager:  Divya Rao (emp_031)
+Date of Joining:    January 10, 2024
+Employment Type:    Full-Time Permanent
+Work Location:      Bengaluru, Karnataka
+Work Mode:          Hybrid (2 days office / 3 days WFH)
+
+=== COMPENSATION (CONFIDENTIAL) ===
+
+Annual CTC:                     ₹9,80,000
+  Basic Salary:                 ₹3,92,000
+  HRA:                          ₹1,96,000
+  Special Allowance:            ₹2,88,960
+  Performance Bonus (target):   ₹78,400 (20% of basic, prorated for joining mid-year)
+  PF Employer Contribution:     ₹47,040 (included in CTC)
+
+Last Increment: April 2025 — 10% increment (rated "Meets Expectations")
+Next Appraisal Due: April 2026
+
+=== LEAVE BALANCE (AS OF OCTOBER 2025) ===
+
+Earned Leave:      9.0 days available
+Sick Leave:        10 days available
+Casual Leave:       5 days available
+
+=== PERFORMANCE HISTORY ===
+
+FY2024–25:  Rating — "Meets Expectations" | Bonus paid: ₹63,200
+FY2023–24:  Rating — "Good" (partial year) | Bonus paid: ₹24,000
+
+=== DOCUMENTS ON FILE ===
+
+- Aadhaar Card: Verified ✓
+- PAN Card: Verified ✓
+- Degree Certificate (MBA, XLRI Jamshedpur, 2023): Verified ✓
+- Previous employment: Freshdesk (Intern 2022–2023), experience letter on file ✓
+- Medical Insurance: Covered under Group Plan (Policy # ART-GRP-3318)
+- Nominee (PF/Gratuity): Krishnan Nair (Father)
+
+=== ACTIVE HR ACTIONS ===
+
+PIP Warning Issued: No
+Active Disciplinary Proceedings: None
+
+=== CONFIDENTIALITY NOTICE ===
+
+This record is strictly confidential. Access is restricted to the employee themselves, their direct HR business partner, and senior HR leadership. Unauthorized access or sharing constitutes a policy violation.
+
+Record Maintained By: HR Systems Team
+Last Updated: October 1, 2025

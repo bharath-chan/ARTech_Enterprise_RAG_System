@@ -1,0 +1,79 @@
+DEPARTMENT: HR
+DOCUMENT: Leave and Attendance Policy
+ACCESS LEVEL: Full
+EMPLOYEE_ID: null
+CLASSIFICATION: Internal — All Employees
+
+=== PURPOSE ===
+
+This policy defines the types of leave available to Artech Solutions employees, eligibility criteria, accrual rules, and the process for applying and approval. All employees are expected to plan their leaves responsibly and ensure minimal disruption to business operations.
+
+=== LEAVE TYPES AND ENTITLEMENTS ===
+
+1. EARNED LEAVE (EL) / ANNUAL LEAVE
+   - Entitlement: 18 days per calendar year
+   - Accrual: 1.5 days per month (credited at the start of each month)
+   - Carry-forward: Maximum 30 days carry-forward; beyond that, lapsed
+   - Encashment: Up to 15 days EL can be encashed annually (at basic salary rate)
+   - Minimum notice: 3 working days for leave up to 3 days; 5 working days for longer durations
+   - Approval: Direct Manager
+
+2. SICK LEAVE (SL)
+   - Entitlement: 12 days per calendar year
+   - Not carry-forward; lapses at year-end
+   - For leaves beyond 3 consecutive days, medical certificate required
+   - Can be availed retroactively (inform manager same day, submit retroactive application)
+
+3. CASUAL LEAVE (CL)
+   - Entitlement: 8 days per calendar year
+   - Maximum 3 consecutive days; not carry-forward
+   - Cannot be prefixed/suffixed with public holidays or EL simultaneously
+   - Approval: Direct Manager (same-day or prior)
+
+4. MATERNITY LEAVE
+   - Entitlement: 26 weeks (as per Maternity Benefit Act, 1961, amended 2017)
+   - Fully paid for first 2 children; applies after 80 days of employment
+   - Additional 8 weeks for medical complications
+   - Work-from-home option available for 12 weeks post return (with manager agreement)
+
+5. PATERNITY LEAVE
+   - Entitlement: 10 working days (paid)
+   - To be availed within 30 days of child's birth
+   - One-time per child
+
+6. BEREAVEMENT LEAVE
+   - 5 working days (paid) for immediate family (spouse, parents, children, siblings)
+   - 2 working days for extended family (grandparents, in-laws)
+   - Additional EL may be applied if more time is needed
+
+7. SABBATICAL LEAVE
+   - Eligibility: Employees with 5+ years of continuous service
+   - Duration: 1–3 months (unpaid)
+   - Requires HOD and HR VP approval
+   - Position held for up to 3 months; no guarantee beyond
+
+8. LEAVE WITHOUT PAY (LWP)
+   - Applicable when all earned leaves are exhausted
+   - Requires Manager + HR approval
+   - LWP exceeding 30 days requires VP/Director approval
+
+=== LEAVE APPLICATION PROCESS ===
+
+- All leaves must be applied for via the HRMS portal (Darwinbox)
+- Planned leaves: Apply minimum 3 days in advance (EL/CL)
+- Emergency/sick leaves: Inform manager via call/message; apply in HRMS same day
+- Leaves not applied in HRMS within 3 days will be marked LWP
+
+=== PUBLIC HOLIDAYS ===
+
+Artech follows a 10-day public holiday calendar (gazetted national holidays) plus a list of 5 optional/restricted holidays per year, of which employees may choose 2.
+
+=== LEAVE LAPSING AND YEAR-END ===
+
+- December 31st: Sick leave and casual leave lapse if unused
+- Carry-forward of EL beyond 30 days is forfeited; encashment option available
+- Leave balances visible on Darwinbox Employee Self-Service portal
+
+Policy Owner: HR Department
+Last Updated: September 2025
+Contact: hr@artechsolutions.in

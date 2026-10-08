@@ -1,0 +1,65 @@
+DEPARTMENT: Finance
+DOCUMENT: Annual Budget Forecast — FY2026
+ACCESS LEVEL: Full
+CLASSIFICATION: Internal — Finance & Executive Only
+
+=== OVERVIEW ===
+
+This document outlines the approved budget allocation and financial forecast for Artech Solutions for the fiscal year April 2025 to March 2026. The budget has been approved by the Board of Directors on September 15, 2025.
+
+Total Approved Budget: ₹610 crore (revenue target), ₹480 crore (cost envelope)
+
+=== REVENUE TARGETS BY QUARTER ===
+
+Q1 FY2026 (Apr–Jun):    ₹138 crore
+Q2 FY2026 (Jul–Sep):    ₹148 crore
+Q3 FY2026 (Oct–Dec):    ₹158 crore
+Q4 FY2026 (Jan–Mar):    ₹166 crore
+Annual Target:           ₹610 crore
+
+=== HEADCOUNT BUDGET ===
+
+Current headcount: 892
+Approved new hires FY2026: 143 positions
+  - Engineering:      72 hires
+  - Sales:            28 hires
+  - Customer Success: 21 hires
+  - Support & Admin:  22 hires
+
+Average loaded cost per employee: ₹18.4 lakhs/year
+Total people cost budget: ₹190.4 crore
+
+=== DEPARTMENT BUDGETS ===
+
+Engineering & Product:   ₹82.0 crore
+Sales & Business Dev:    ₹61.5 crore
+Customer Success:        ₹28.3 crore
+Marketing:               ₹24.0 crore
+HR & Admin:              ₹18.2 crore
+Legal & Compliance:      ₹12.0 crore
+Finance & Accounting:    ₹9.5 crore
+Infrastructure:          ₹44.5 crore
+
+=== CAPEX PLAN ===
+
+Data Center Expansion (Pune):   ₹18.0 crore
+Office Fit-outs (Bengaluru):    ₹7.5 crore
+Hardware & Lab Equipment:       ₹5.2 crore
+Software Licenses (Enterprise): ₹4.8 crore
+Total Capex:                    ₹35.5 crore
+
+=== RISK ADJUSTMENTS ===
+
+Forex risk buffer (USD exposure):  ₹8.0 crore
+Legal contingency reserve:         ₹5.0 crore
+Bad debt provision:                ₹3.2 crore
+
+=== APPROVAL STATUS ===
+
+Board Approved: Yes (September 15, 2025)
+CFO Sign-off: Priya Venkataraman
+CEO Sign-off: Rajan Mehta
+
+Prepared by: Finance Planning Team
+Date: September 20, 2025
+STRICTLY CONFIDENTIAL — Board and Finance Personnel Only

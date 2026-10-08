@@ -1,0 +1,73 @@
+DEPARTMENT: HR
+DOCUMENT: Severance and Exit Policy
+ACCESS LEVEL: Full
+EMPLOYEE_ID: null
+CLASSIFICATION: Internal — Manager and Above Only
+
+=== PURPOSE ===
+
+This document defines the severance structure, exit procedures, and entitlements applicable to employees leaving Artech Solutions — whether through voluntary resignation, mutual separation, or company-initiated termination.
+
+This policy is intended for HR and management use. It is NOT to be shared in full with all employees. Employees are entitled to know their individual entitlements upon notice of separation.
+
+=== NOTICE PERIODS ===
+
+Band 1 (Junior — SDE 1, Analyst, Associate):   30 days
+Band 2 (Mid-level — SDE 2, Senior Analyst):    60 days
+Band 3 (Senior — Lead, Manager):               90 days
+Band 4 (Principal / Director):                 90 days
+Band 5 (VP and above):                         120 days
+
+Buy-out of notice period: Allowed at basic salary rate per remaining day (employee-initiated only).
+
+=== SEVERANCE PAY — COMPANY-INITIATED TERMINATION ===
+
+Applicable when the company terminates an employee without cause (restructuring, role elimination) or under a mutual separation agreement.
+
+Calculation:
+- Tenure < 1 year:        1 month gross salary
+- Tenure 1–3 years:       1.5 months gross salary per completed year
+- Tenure 3–5 years:       2 months gross salary per completed year
+- Tenure > 5 years:       2.5 months gross salary per completed year (capped at 18 months total)
+
+Gratuity (as per Payment of Gratuity Act): Payable separately for 5+ years of continuous service.
+  Formula: (Last drawn basic salary × 15/26) × number of completed years
+
+=== TERMINATION FOR CAUSE ===
+
+In cases of gross misconduct, fraud, data theft, or serious policy violation:
+- Employee is not entitled to severance pay
+- Notice period may be waived; employee escorted off premises
+- ESOP vesting halted immediately; unvested options forfeited
+- Legal action may be initiated
+
+=== ESOPs ON EXIT ===
+
+Resigned / Voluntary:
+- Vested options must be exercised within 90 days of last working day
+- Unvested options are forfeited
+
+Mutual Separation:
+- Case-by-case discretionary acceleration of unvested options (requires ESOP committee approval)
+- Vested options: 180 days exercise window
+
+Termination for Cause:
+- All options (vested and unvested) forfeited immediately
+
+=== EXIT PROCESS ===
+
+1. Employee or Company issues formal notice (email to manager + HR)
+2. HR schedules exit interview within first week of notice period
+3. Employee completes knowledge transfer checklist (signed off by manager)
+4. IT access revoked on last working day
+5. Finance calculates final settlement: salary + EL encashment + gratuity + reimbursements pending
+6. Full and Final (F&F) settlement disbursed within 30 days of last working day
+7. Relieving letter and experience letter issued within 7 working days of F&F clearance
+
+=== NON-DISPARAGEMENT ===
+
+Both parties agree not to make disparaging statements about each other. Violation may void severance entitlements.
+
+Policy Owner: HR & Legal (Joint)
+Last Reviewed: August 2025
+For queries: hr@artechsolutions.in
